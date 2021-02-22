@@ -26,7 +26,7 @@ def get_workbook_date(filename):
         if(month == '' and (d in months)):
             month = d
 
-    if(month != '' and details.index(month) < len(details)):
+    if month != '':
         index = details.index(month)
         try:
             year = int(details[index+1])
