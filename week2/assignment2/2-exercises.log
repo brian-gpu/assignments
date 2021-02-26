@@ -1,0 +1,123 @@
+Exercise 1
+['Id', 'EmployeeName', 'JobTitle', 'BasePay', 'OvertimePay', 'OtherPay', 'Benefits', 'TotalPay', 'TotalPayBenefits', 'Year', 'Notes', 'Agency', 'Status']
+
+
+Exercise 2
+148654
+
+
+Exercise 3
+145663.99820000018
+
+
+Exercise 4
+567595.43
+
+
+Exercise 5
+CAPTAIN, FIRE SUPPRESSION
+
+
+Exercise 6
+270324.91
+
+
+Exercise 7
+NATHANIEL FORD
+
+
+Exercise 8
+Joe Lopez -618.13
+Their pay is negative
+
+
+Exercise 9
+74768.321971703
+
+
+Exercise 10
+2159
+
+
+Exercise 11
+JobTitle
+Transit Operator                7036
+Special Nurse                   4389
+Registered Nurse                3736
+Public Svc Aide-Public Works    2518
+Police Officer 3                2421
+Custodian                       2418
+TRANSIT OPERATOR                2388
+Name: JobTitle, dtype: int64
+
+
+Exercise 12
+202
+
+
+Exercise 13
+627
+
+
+Exercise 14
+There is no clear correlation between job title length and average salary
+
+Correlation Matrix:
+                 JobTitle Length  Average Salary
+JobTitle Length         1.000000        0.112527
+Average Salary          0.112527        1.000000
+
+Top 50 JobTitle Length vs Salary:
+      JobTitle Length  Average Salary
+683                50   115570.362857
+13                 50     1927.500000
+711                50   111821.330000
+1611               50    81631.300000
+91                 50    95283.350000
+710                50    88136.795000
+1986               50    92314.640000
+1644               50    91548.026667
+294                50   206704.630000
+1048               50   191815.557500
+597                50    77140.880000
+37                 50    59027.806667
+1691               50    46804.650000
+915                50   161040.712500
+2109               49   150352.685000
+1560               49    68896.725000
+1688               49   100294.809444
+1643               49   109496.035000
+1613               49   103262.698333
+674                49   126152.285000
+368                49   214988.680000
+332                48   130454.310000
+57                 48   203427.850000
+99                 48   166821.150000
+251                48   154690.600000
+1751               48    91833.305000
+1650               48    72756.589091
+581                48   171207.812000
+681                48    80391.126000
+713                48   101033.760000
+583                48   200921.488000
+56                 48   117964.410000
+263                48   124398.504615
+1764               47    42553.593333
+864                47    92872.000000
+1418               46     8943.554238
+1419               46    14256.117637
+307                46    59680.173000
+44                 46    88242.320000
+1113               46   145445.167000
+831                46   399211.275000
+115                46    87131.380000
+107                46   122486.890000
+2156               46    53632.870000
+96                 46    72844.400000
+14                 45    15420.000000
+1111               45   150641.082000
+1772               45    83217.881667
+1034               45    57535.090000
+1768               45   124315.080000
+
+
