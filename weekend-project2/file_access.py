@@ -104,12 +104,12 @@ def check_latest_line_variance(filenames):
     try:
         latest_line_count = len(convert_csv(filenames[0]).index)
     except:
-        logging.warning(f'No latest csv detected')
+        logging.warning('No latest csv detected')
 
     try:
         previous_line_count = len(convert_csv(filenames[1]).index)
     except:
-        logging.warning(f'No previous csv detected')
+        logging.warning('No previous csv detected')
 
     variance = latest_line_count - previous_line_count
     

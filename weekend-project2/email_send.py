@@ -10,6 +10,7 @@ def access_credentials():
     destination = 'config'
     username = ''
     password = ''
+    recipient = ''
     credentials = []
 
     try:
@@ -24,6 +25,7 @@ def access_credentials():
 
         username = credentials[0]
         password = credentials[1]
+        recipient = credentials[2]
 
         logging.info(f'Read from file - {destination}')
     except:
@@ -38,17 +40,22 @@ def access_credentials():
     if username == '' or password == '':
         raise Exception('Credentials not found')
 
-    return (username, password)
+    return (username, password, recipient)
 
-def send_email(recipient):
+def send_email():
+    username = ''
+    password = ''
+    recipient = ''
+
     try:
         credentials = access_credentials()
         
         username = credentials[0]
         password = credentials[1]
+        recipient = credentials[2]
     except Exception as e:
         logging.error(f'Credentials error - {e}')
-        raise Exception(f'Credentials error')
+        raise Exception('Credentials error')
 
     # Start session, encryption, login
     try:
@@ -58,27 +65,25 @@ def send_email(recipient):
         session.login(username, password)
     except:
         logging.error('Could not start session')
-        raise Exception(f'Session start error')
+        raise Exception('Session start error')
 
     # Set header and main message body
     try: 
-        # Header
         msg = MIMEMultipart()
         msg['Subject'] = 'Weekend Project 2'
         msg['From'] = username
         msg['To'] = recipient
 
-        # Message
-        text ='Hello,\n\nAttached is the Weekend Project 2 log file, plot 1, and plot 2.\n\nBest regards,\nBrian Senior'
+        text ='Hello,\n\nAttached is the Weekend Project 2 log file, plot 1, and plot 2.\n\nBest regards,\nStudent'
         msg.attach(MIMEText(text))
     except:
         logging.error('Could not create main message')
-        raise Exception(f'Message creation error')
+        raise Exception('Message creation error')
 
     # Attach log file
     try:
         filenames = ['weekend-project2.log', 'plot1.png', 'plot2.png']
-        for f in filenames or []:
+        for f in filenames:
             with open(f, "rb") as file: 
                 ext = f.split('.')[-1:]
                 attachedfile = MIMEApplication(file.read(), _subtype = ext)
@@ -87,7 +92,7 @@ def send_email(recipient):
             msg.attach(attachedfile)
     except:
         logging.error('Could not attach file')
-        raise Exception(f'Message attachment error')
+        raise Exception('Message attachment error')
 
     # Send
     try:
@@ -95,10 +100,10 @@ def send_email(recipient):
         logging.info(f'Email sent to {recipient}')
     except:
         logging.error('Could not send message')
-        raise Exception(f'Message send error')
+        raise Exception('Message send error')
 
     try:
         session.quit()
     except:
         logging.error('Could not end session')
-        raise Exception(f'Session stop error')
+        raise Exception('Session stop error')

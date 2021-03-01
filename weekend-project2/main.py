@@ -47,8 +47,7 @@ create_visualization(a_df, df)
 
 # Send email and stop logging
 try:
-    recipient = 'brian.senior@smoothstack.com'
-    send_email(recipient)
+    send_email()
 except Exception as e:
     logging.error(f'Login error - {e}')
 
