@@ -1,0 +1,361 @@
+2021-03-01 16:38:16,655  root  INFO  Start logging
+2021-03-01 16:38:16,655  root  INFO  Accessed the current directory 
+2021-03-01 16:38:16,655  root  INFO  Filtered the output of the current directory
+2021-03-01 16:38:16,655  root  INFO  Sorted filenames
+2021-03-01 16:38:16,655  root  ERROR  Could not open file - NYL.lst
+2021-03-01 16:38:16,655  root  ERROR  Could not read file - NYL.lst
+2021-03-01 16:38:16,655  root  ERROR  Could not close file - NYL.lst
+2021-03-01 16:38:16,655  root  INFO  Opened file - NYL.lst
+2021-03-01 16:38:16,655  root  INFO  Wrote to file - NYL.lst
+2021-03-01 16:38:16,655  root  INFO  Closed file - NYL.lst
+2021-03-01 16:38:16,682  root  INFO  Converted csv - NYL_FieldAgent_20210219.csv
+2021-03-01 16:38:16,707  root  INFO  Converted csv - NYL_FieldAgent_20210212.csv
+2021-03-01 16:38:16,708  root  INFO  Variance check passed
+2021-03-01 16:38:16,733  root  INFO  Converted csv - NYL_FieldAgent_20210219.csv
+2021-03-01 16:38:16,735  root  INFO  Successfully updated header
+2021-03-01 16:38:16,741  root  INFO  Invalid Agent Phone Number at line 71
+2021-03-01 16:38:16,741  root  INFO  Invalid Agent Phone Number at line 103
+2021-03-01 16:38:16,741  root  INFO  Invalid Agent Phone Number at line 141
+2021-03-01 16:38:16,741  root  INFO  Invalid Agent Phone Number at line 173
+2021-03-01 16:38:16,741  root  INFO  Invalid Agent Phone Number at line 226
+2021-03-01 16:38:16,741  root  INFO  Invalid Agent Phone Number at line 233
+2021-03-01 16:38:16,742  root  INFO  Invalid Agent Phone Number at line 413
+2021-03-01 16:38:16,742  root  INFO  Invalid Agent Phone Number at line 483
+2021-03-01 16:38:16,742  root  INFO  Invalid Agent Phone Number at line 490
+2021-03-01 16:38:16,742  root  INFO  Invalid Agent Phone Number at line 493
+2021-03-01 16:38:16,742  root  INFO  Invalid Agent Phone Number at line 546
+2021-03-01 16:38:16,742  root  INFO  Invalid Agent Phone Number at line 554
+2021-03-01 16:38:16,742  root  INFO  Invalid Agent Phone Number at line 561
+2021-03-01 16:38:16,742  root  INFO  Invalid Agent Phone Number at line 591
+2021-03-01 16:38:16,743  root  INFO  Invalid Agent Phone Number at line 655
+2021-03-01 16:38:16,743  root  INFO  Invalid Agent Phone Number at line 692
+2021-03-01 16:38:16,743  root  INFO  Invalid Agent Phone Number at line 709
+2021-03-01 16:38:16,743  root  INFO  Invalid Agent Phone Number at line 716
+2021-03-01 16:38:16,743  root  INFO  Invalid Agent Phone Number at line 762
+2021-03-01 16:38:16,743  root  INFO  Invalid Agent Phone Number at line 784
+2021-03-01 16:38:16,743  root  INFO  Invalid Agent Phone Number at line 832
+2021-03-01 16:38:16,743  root  INFO  Invalid Agent Phone Number at line 857
+2021-03-01 16:38:16,743  root  INFO  Invalid Agent Phone Number at line 864
+2021-03-01 16:38:16,743  root  INFO  Invalid Agent Phone Number at line 873
+2021-03-01 16:38:16,744  root  INFO  Invalid Agent Phone Number at line 889
+2021-03-01 16:38:16,744  root  INFO  Invalid Agent Phone Number at line 900
+2021-03-01 16:38:16,744  root  INFO  Invalid Agent Phone Number at line 904
+2021-03-01 16:38:16,744  root  INFO  Invalid Agent Phone Number at line 906
+2021-03-01 16:38:16,744  root  INFO  Invalid Agent Phone Number at line 913
+2021-03-01 16:38:16,744  root  INFO  Invalid Agent Phone Number at line 917
+2021-03-01 16:38:16,744  root  INFO  Invalid Agent Phone Number at line 920
+2021-03-01 16:38:16,744  root  INFO  Invalid Agent Phone Number at line 927
+2021-03-01 16:38:16,744  root  INFO  Invalid Agent Phone Number at line 945
+2021-03-01 16:38:16,744  root  INFO  Invalid Agent Phone Number at line 946
+2021-03-01 16:38:16,744  root  INFO  Invalid Agent Phone Number at line 957
+2021-03-01 16:38:16,744  root  INFO  Invalid Agent Phone Number at line 965
+2021-03-01 16:38:16,744  root  INFO  Invalid Agent Phone Number at line 974
+2021-03-01 16:38:16,744  root  INFO  Invalid Agent Phone Number at line 975
+2021-03-01 16:38:16,744  root  INFO  Invalid Agent Phone Number at line 977
+2021-03-01 16:38:16,744  root  INFO  Invalid Agent Phone Number at line 987
+2021-03-01 16:38:16,744  root  INFO  Invalid Agent Phone Number at line 1013
+2021-03-01 16:38:16,744  root  INFO  Invalid Agent Phone Number at line 1014
+2021-03-01 16:38:16,745  root  INFO  Invalid Agent Phone Number at line 1025
+2021-03-01 16:38:16,745  root  INFO  Invalid Agent Phone Number at line 1035
+2021-03-01 16:38:16,745  root  INFO  Invalid Agent Phone Number at line 1037
+2021-03-01 16:38:16,745  root  INFO  Invalid Agent Phone Number at line 1039
+2021-03-01 16:38:16,745  root  INFO  Invalid Agent Phone Number at line 1043
+2021-03-01 16:38:16,745  root  INFO  Invalid Agent Phone Number at line 1045
+2021-03-01 16:38:16,745  root  INFO  Invalid Agent Phone Number at line 1047
+2021-03-01 16:38:16,745  root  INFO  Invalid Agent Phone Number at line 1058
+2021-03-01 16:38:16,745  root  INFO  Invalid Agent Phone Number at line 1080
+2021-03-01 16:38:16,745  root  INFO  Invalid Agent Phone Number at line 1086
+2021-03-01 16:38:16,745  root  INFO  Invalid Agent Phone Number at line 1091
+2021-03-01 16:38:16,745  root  INFO  Invalid Agent Phone Number at line 1094
+2021-03-01 16:38:16,745  root  INFO  Invalid Agent Phone Number at line 1099
+2021-03-01 16:38:16,745  root  INFO  Invalid Agent Phone Number at line 1104
+2021-03-01 16:38:16,745  root  INFO  Invalid Agent Phone Number at line 1105
+2021-03-01 16:38:16,745  root  INFO  Invalid Agent Phone Number at line 1110
+2021-03-01 16:38:16,745  root  INFO  Invalid Agent Phone Number at line 1112
+2021-03-01 16:38:16,745  root  INFO  Invalid Agent Phone Number at line 1115
+2021-03-01 16:38:16,745  root  INFO  Invalid Agent Phone Number at line 1118
+2021-03-01 16:38:16,745  root  INFO  Invalid Agent Phone Number at line 1119
+2021-03-01 16:38:16,745  root  INFO  Invalid Agent Phone Number at line 1122
+2021-03-01 16:38:16,746  root  INFO  Invalid Agent Phone Number at line 1127
+2021-03-01 16:38:16,746  root  INFO  Invalid Agent Phone Number at line 1130
+2021-03-01 16:38:16,746  root  INFO  Invalid Agent Phone Number at line 1131
+2021-03-01 16:38:16,746  root  INFO  Invalid Agent Phone Number at line 1137
+2021-03-01 16:38:16,746  root  INFO  Invalid Agent Phone Number at line 1143
+2021-03-01 16:38:16,746  root  INFO  Invalid Agent Phone Number at line 1148
+2021-03-01 16:38:16,746  root  INFO  Invalid Agent Phone Number at line 1151
+2021-03-01 16:38:16,746  root  INFO  Invalid Agent Phone Number at line 1162
+2021-03-01 16:38:16,746  root  INFO  Invalid Agent Phone Number at line 1172
+2021-03-01 16:38:16,746  root  INFO  Invalid Agent Phone Number at line 1176
+2021-03-01 16:38:16,746  root  INFO  Invalid Agent Phone Number at line 1177
+2021-03-01 16:38:16,746  root  INFO  Invalid Agent Phone Number at line 1190
+2021-03-01 16:38:16,746  root  INFO  Invalid Agent Phone Number at line 1192
+2021-03-01 16:38:16,746  root  INFO  Invalid Agent Phone Number at line 1202
+2021-03-01 16:38:16,746  root  INFO  Invalid Agent Phone Number at line 1207
+2021-03-01 16:38:16,746  root  INFO  Invalid Agent Phone Number at line 1216
+2021-03-01 16:38:16,746  root  INFO  Invalid Agent Phone Number at line 1218
+2021-03-01 16:38:16,746  root  INFO  Invalid Agent Phone Number at line 1221
+2021-03-01 16:38:16,746  root  INFO  Invalid Agent Phone Number at line 1225
+2021-03-01 16:38:16,747  root  INFO  Invalid Agent Phone Number at line 1227
+2021-03-01 16:38:16,747  root  INFO  Invalid Agent Phone Number at line 1229
+2021-03-01 16:38:16,747  root  INFO  Invalid Agent Phone Number at line 1232
+2021-03-01 16:38:16,747  root  INFO  Invalid Agent Phone Number at line 1235
+2021-03-01 16:38:16,747  root  INFO  Invalid Agent Phone Number at line 1238
+2021-03-01 16:38:16,747  root  INFO  Invalid Agent Phone Number at line 1248
+2021-03-01 16:38:16,747  root  INFO  Invalid Agent Phone Number at line 1262
+2021-03-01 16:38:16,747  root  INFO  Invalid Agent Phone Number at line 1265
+2021-03-01 16:38:16,747  root  INFO  Invalid Agent Phone Number at line 1266
+2021-03-01 16:38:16,747  root  INFO  Invalid Agent Phone Number at line 1268
+2021-03-01 16:38:16,747  root  INFO  Invalid Agent Phone Number at line 1270
+2021-03-01 16:38:16,747  root  INFO  Invalid Agent Phone Number at line 1273
+2021-03-01 16:38:16,747  root  INFO  Invalid Agent Phone Number at line 1276
+2021-03-01 16:38:16,747  root  INFO  Invalid Agent Phone Number at line 1283
+2021-03-01 16:38:16,747  root  INFO  Invalid Agent Phone Number at line 1287
+2021-03-01 16:38:16,747  root  INFO  Invalid Agent Phone Number at line 1291
+2021-03-01 16:38:16,747  root  INFO  Invalid Agent Phone Number at line 1296
+2021-03-01 16:38:16,747  root  INFO  Invalid Agent Phone Number at line 1297
+2021-03-01 16:38:16,747  root  INFO  Invalid Agent Phone Number at line 1304
+2021-03-01 16:38:16,747  root  INFO  Invalid Agent Phone Number at line 1309
+2021-03-01 16:38:16,748  root  INFO  Invalid Agent Phone Number at line 1310
+2021-03-01 16:38:16,748  root  INFO  Invalid Agent Phone Number at line 1316
+2021-03-01 16:38:16,748  root  INFO  Invalid Agent Phone Number at line 1318
+2021-03-01 16:38:16,748  root  INFO  Invalid Agent Phone Number at line 1319
+2021-03-01 16:38:16,748  root  INFO  Invalid Agent Phone Number at line 1324
+2021-03-01 16:38:16,748  root  INFO  Invalid Agent Phone Number at line 1327
+2021-03-01 16:38:16,748  root  INFO  Invalid Agent Phone Number at line 1329
+2021-03-01 16:38:16,748  root  INFO  Invalid Agent Phone Number at line 1333
+2021-03-01 16:38:16,748  root  INFO  Invalid Agent Phone Number at line 1337
+2021-03-01 16:38:16,748  root  INFO  Invalid Agent Phone Number at line 1339
+2021-03-01 16:38:16,748  root  INFO  Invalid Agent Phone Number at line 1340
+2021-03-01 16:38:16,748  root  INFO  Invalid Agent Phone Number at line 1341
+2021-03-01 16:38:16,748  root  INFO  Invalid Agent Phone Number at line 1346
+2021-03-01 16:38:16,748  root  INFO  Invalid Agent Phone Number at line 1355
+2021-03-01 16:38:16,748  root  INFO  Invalid Agent Phone Number at line 1359
+2021-03-01 16:38:16,748  root  INFO  Invalid Agent Phone Number at line 1367
+2021-03-01 16:38:16,748  root  INFO  Invalid Agent Phone Number at line 1372
+2021-03-01 16:38:16,748  root  INFO  Invalid Agent Phone Number at line 1376
+2021-03-01 16:38:16,748  root  INFO  Invalid Agent Phone Number at line 1377
+2021-03-01 16:38:16,748  root  INFO  Invalid Agent Phone Number at line 1378
+2021-03-01 16:38:16,748  root  INFO  Invalid Agent Phone Number at line 1379
+2021-03-01 16:38:16,748  root  INFO  Invalid Agent Phone Number at line 1387
+2021-03-01 16:38:16,749  root  INFO  Invalid Agent Phone Number at line 1390
+2021-03-01 16:38:16,749  root  INFO  Invalid Agent Phone Number at line 1393
+2021-03-01 16:38:16,749  root  INFO  Invalid Agent Phone Number at line 1394
+2021-03-01 16:38:16,749  root  INFO  Invalid Agent Phone Number at line 1396
+2021-03-01 16:38:16,749  root  INFO  Invalid Agent Phone Number at line 1407
+2021-03-01 16:38:16,749  root  INFO  Invalid Agent Phone Number at line 1408
+2021-03-01 16:38:16,749  root  INFO  Invalid Agent Phone Number at line 1409
+2021-03-01 16:38:16,749  root  INFO  Invalid Agent Phone Number at line 1418
+2021-03-01 16:38:16,749  root  INFO  Invalid Agent Phone Number at line 1419
+2021-03-01 16:38:16,749  root  INFO  Invalid Agent Phone Number at line 1420
+2021-03-01 16:38:16,749  root  INFO  Invalid Agent Phone Number at line 1423
+2021-03-01 16:38:16,749  root  INFO  Invalid Agent Phone Number at line 1428
+2021-03-01 16:38:16,749  root  INFO  Invalid Agent Phone Number at line 1436
+2021-03-01 16:38:16,749  root  INFO  Invalid Agent Phone Number at line 1438
+2021-03-01 16:38:16,749  root  INFO  Invalid Agent Phone Number at line 1440
+2021-03-01 16:38:16,749  root  INFO  Invalid Agent Phone Number at line 1441
+2021-03-01 16:38:16,749  root  INFO  Invalid Agent Phone Number at line 1449
+2021-03-01 16:38:16,749  root  INFO  Invalid Agent Phone Number at line 1450
+2021-03-01 16:38:16,749  root  INFO  Invalid Agent Phone Number at line 1451
+2021-03-01 16:38:16,750  root  INFO  Invalid Agent Phone Number at line 1457
+2021-03-01 16:38:16,750  root  INFO  Invalid Agent Phone Number at line 1460
+2021-03-01 16:38:16,750  root  INFO  Invalid Agent Phone Number at line 1463
+2021-03-01 16:38:16,750  root  INFO  Invalid Agent Phone Number at line 1465
+2021-03-01 16:38:16,750  root  INFO  Invalid Agent Phone Number at line 1469
+2021-03-01 16:38:16,750  root  INFO  Invalid Agent Phone Number at line 1470
+2021-03-01 16:38:16,750  root  INFO  Invalid Agent Phone Number at line 1471
+2021-03-01 16:38:16,750  root  INFO  Invalid Agent Phone Number at line 1472
+2021-03-01 16:38:16,750  root  INFO  Invalid Agent Phone Number at line 1482
+2021-03-01 16:38:16,750  root  INFO  Invalid Agent Phone Number at line 1483
+2021-03-01 16:38:16,750  root  INFO  Invalid Agent Phone Number at line 1485
+2021-03-01 16:38:16,750  root  INFO  Invalid Agent Phone Number at line 1487
+2021-03-01 16:38:16,750  root  INFO  Invalid Agent Phone Number at line 1488
+2021-03-01 16:38:16,750  root  INFO  Invalid Agent Phone Number at line 1492
+2021-03-01 16:38:16,750  root  INFO  Invalid Agent Phone Number at line 1493
+2021-03-01 16:38:16,750  root  INFO  Invalid Agent Phone Number at line 1498
+2021-03-01 16:38:16,750  root  INFO  Invalid Agent Phone Number at line 1501
+2021-03-01 16:38:16,750  root  INFO  Invalid Agent Phone Number at line 1502
+2021-03-01 16:38:16,750  root  INFO  Invalid Agent Phone Number at line 1505
+2021-03-01 16:38:16,750  root  INFO  Invalid Agent Phone Number at line 1507
+2021-03-01 16:38:16,750  root  INFO  Invalid Agent Phone Number at line 1508
+2021-03-01 16:38:16,751  root  INFO  Invalid Agent Phone Number at line 1510
+2021-03-01 16:38:16,751  root  INFO  Invalid Agent Phone Number at line 1515
+2021-03-01 16:38:16,751  root  INFO  Invalid Agent Phone Number at line 1516
+2021-03-01 16:38:16,751  root  INFO  Invalid Agent Phone Number at line 1530
+2021-03-01 16:38:16,751  root  INFO  Invalid Agent Phone Number at line 1533
+2021-03-01 16:38:16,751  root  INFO  Invalid Agent Phone Number at line 1534
+2021-03-01 16:38:16,751  root  INFO  Invalid Agent Phone Number at line 1542
+2021-03-01 16:38:16,751  root  INFO  Invalid Agent Phone Number at line 1543
+2021-03-01 16:38:16,751  root  INFO  Invalid Agent Phone Number at line 1545
+2021-03-01 16:38:16,751  root  INFO  Invalid Agent Phone Number at line 1546
+2021-03-01 16:38:16,751  root  INFO  Invalid Agent Phone Number at line 1547
+2021-03-01 16:38:16,751  root  INFO  Invalid Agent Phone Number at line 1556
+2021-03-01 16:38:16,751  root  INFO  Invalid Agent Phone Number at line 1562
+2021-03-01 16:38:16,751  root  INFO  Invalid Agent Phone Number at line 1565
+2021-03-01 16:38:16,751  root  INFO  Invalid Agent Phone Number at line 1567
+2021-03-01 16:38:16,751  root  INFO  Invalid Agent Phone Number at line 1573
+2021-03-01 16:38:16,751  root  INFO  Invalid Agent Phone Number at line 1583
+2021-03-01 16:38:16,751  root  INFO  Invalid Agent Phone Number at line 1587
+2021-03-01 16:38:16,751  root  INFO  Invalid Agent Phone Number at line 1588
+2021-03-01 16:38:16,751  root  INFO  Invalid Agent Phone Number at line 1589
+2021-03-01 16:38:16,752  root  INFO  Invalid Agent Phone Number at line 1591
+2021-03-01 16:38:16,752  root  INFO  Invalid Agent Phone Number at line 1599
+2021-03-01 16:38:16,752  root  INFO  Invalid Agent Phone Number at line 1601
+2021-03-01 16:38:16,752  root  INFO  Invalid Agent Phone Number at line 1602
+2021-03-01 16:38:16,752  root  INFO  Invalid Agent Phone Number at line 1604
+2021-03-01 16:38:16,752  root  INFO  Invalid Agent Phone Number at line 1606
+2021-03-01 16:38:16,752  root  INFO  Invalid Agent Phone Number at line 1607
+2021-03-01 16:38:16,752  root  INFO  Invalid Agent Phone Number at line 1609
+2021-03-01 16:38:16,752  root  INFO  Invalid Agent Phone Number at line 1611
+2021-03-01 16:38:16,752  root  INFO  Invalid Agent Phone Number at line 1612
+2021-03-01 16:38:16,752  root  INFO  Invalid Agent Phone Number at line 1614
+2021-03-01 16:38:16,752  root  INFO  Invalid Agent Phone Number at line 1616
+2021-03-01 16:38:16,752  root  INFO  Invalid Agent Phone Number at line 1618
+2021-03-01 16:38:16,752  root  INFO  Invalid Agent Phone Number at line 1620
+2021-03-01 16:38:16,752  root  INFO  Invalid Agent Phone Number at line 1622
+2021-03-01 16:38:16,752  root  INFO  Invalid Agent Phone Number at line 1624
+2021-03-01 16:38:16,752  root  INFO  Invalid Agent Phone Number at line 1627
+2021-03-01 16:38:16,752  root  INFO  Invalid Agent Phone Number at line 1631
+2021-03-01 16:38:16,752  root  INFO  Invalid Agent Phone Number at line 1635
+2021-03-01 16:38:16,752  root  INFO  Invalid Agent Phone Number at line 1640
+2021-03-01 16:38:16,753  root  INFO  Invalid Agent Phone Number at line 1647
+2021-03-01 16:38:16,753  root  INFO  Invalid Agent Phone Number at line 1649
+2021-03-01 16:38:16,753  root  INFO  Invalid Agent Phone Number at line 1650
+2021-03-01 16:38:16,753  root  INFO  Invalid Agent Phone Number at line 1651
+2021-03-01 16:38:16,753  root  INFO  Invalid Agent Phone Number at line 1656
+2021-03-01 16:38:16,753  root  INFO  Invalid Agent Phone Number at line 1657
+2021-03-01 16:38:16,753  root  INFO  Invalid Agent Phone Number at line 1659
+2021-03-01 16:38:16,753  root  INFO  Invalid Agent Phone Number at line 1663
+2021-03-01 16:38:16,753  root  INFO  Invalid Agent Phone Number at line 1685
+2021-03-01 16:38:16,753  root  INFO  Invalid Agent Phone Number at line 1694
+2021-03-01 16:38:16,753  root  INFO  Invalid Agent Phone Number at line 1695
+2021-03-01 16:38:16,753  root  INFO  Invalid Agent Phone Number at line 1701
+2021-03-01 16:38:16,753  root  INFO  Invalid Agent Phone Number at line 1704
+2021-03-01 16:38:16,753  root  INFO  Invalid Agent Phone Number at line 1706
+2021-03-01 16:38:16,753  root  INFO  Invalid Agent Phone Number at line 1708
+2021-03-01 16:38:16,753  root  INFO  Invalid Agent Phone Number at line 1710
+2021-03-01 16:38:16,753  root  INFO  Invalid Agent Phone Number at line 1712
+2021-03-01 16:38:16,753  root  INFO  Invalid Agent Phone Number at line 1715
+2021-03-01 16:38:16,754  root  INFO  Invalid Agent Phone Number at line 1720
+2021-03-01 16:38:16,754  root  INFO  Invalid Agent Phone Number at line 1721
+2021-03-01 16:38:16,754  root  INFO  Invalid Agent Phone Number at line 1724
+2021-03-01 16:38:16,754  root  INFO  Invalid Agent Phone Number at line 1726
+2021-03-01 16:38:16,754  root  INFO  Invalid Agent Phone Number at line 1732
+2021-03-01 16:38:16,754  root  INFO  Invalid Agent Phone Number at line 1735
+2021-03-01 16:38:16,754  root  INFO  Invalid Agent Phone Number at line 1737
+2021-03-01 16:38:16,754  root  INFO  Invalid Agent Phone Number at line 1740
+2021-03-01 16:38:16,754  root  INFO  Invalid Agent Phone Number at line 1746
+2021-03-01 16:38:16,754  root  INFO  Invalid Agent Phone Number at line 1749
+2021-03-01 16:38:16,754  root  INFO  Invalid Agent Phone Number at line 1754
+2021-03-01 16:38:16,754  root  INFO  Invalid Agent Phone Number at line 1755
+2021-03-01 16:38:16,754  root  INFO  Invalid Agent Phone Number at line 1757
+2021-03-01 16:38:16,754  root  INFO  Invalid Agent Phone Number at line 1764
+2021-03-01 16:38:16,754  root  INFO  Invalid Agent Phone Number at line 1769
+2021-03-01 16:38:16,754  root  INFO  Invalid Agent Phone Number at line 1771
+2021-03-01 16:38:16,754  root  INFO  Invalid Agent Phone Number at line 1773
+2021-03-01 16:38:16,755  root  INFO  Invalid Agent Phone Number at line 1775
+2021-03-01 16:38:16,755  root  INFO  Invalid Agent Phone Number at line 1776
+2021-03-01 16:38:16,755  root  INFO  Invalid Agent Phone Number at line 1778
+2021-03-01 16:38:16,755  root  INFO  Invalid Agent Phone Number at line 1779
+2021-03-01 16:38:16,755  root  INFO  Invalid Agent Phone Number at line 1781
+2021-03-01 16:38:16,755  root  INFO  Invalid Agent Phone Number at line 1784
+2021-03-01 16:38:16,755  root  INFO  Invalid Agent Phone Number at line 1791
+2021-03-01 16:38:16,755  root  INFO  Invalid Agent Phone Number at line 1793
+2021-03-01 16:38:16,755  root  INFO  Invalid Agent Phone Number at line 1794
+2021-03-01 16:38:16,755  root  INFO  Invalid Agent Phone Number at line 1796
+2021-03-01 16:38:16,755  root  INFO  Invalid Agent Phone Number at line 1797
+2021-03-01 16:38:16,755  root  INFO  Invalid Agent Phone Number at line 1798
+2021-03-01 16:38:16,755  root  INFO  Invalid Agent Phone Number at line 1803
+2021-03-01 16:38:16,755  root  INFO  Invalid Agent Phone Number at line 1805
+2021-03-01 16:38:16,755  root  INFO  Invalid Agent Phone Number at line 1807
+2021-03-01 16:38:16,755  root  INFO  Invalid Agent Phone Number at line 1810
+2021-03-01 16:38:16,755  root  INFO  Invalid Agent Phone Number at line 1813
+2021-03-01 16:38:16,755  root  INFO  Invalid Agent Phone Number at line 1816
+2021-03-01 16:38:16,755  root  INFO  Invalid Agent Phone Number at line 1817
+2021-03-01 16:38:16,755  root  INFO  Invalid Agent Phone Number at line 1821
+2021-03-01 16:38:16,756  root  INFO  Invalid Agent Phone Number at line 1825
+2021-03-01 16:38:16,756  root  INFO  Invalid Agent Phone Number at line 1826
+2021-03-01 16:38:16,756  root  INFO  Invalid Agent Phone Number at line 1829
+2021-03-01 16:38:16,756  root  INFO  Invalid Agent Phone Number at line 1830
+2021-03-01 16:38:16,756  root  INFO  Invalid Agent Phone Number at line 1831
+2021-03-01 16:38:16,756  root  INFO  Invalid Agent Phone Number at line 1834
+2021-03-01 16:38:16,756  root  INFO  Invalid Agent Phone Number at line 1836
+2021-03-01 16:38:16,756  root  INFO  Invalid Agent Phone Number at line 1837
+2021-03-01 16:38:16,756  root  INFO  Invalid Agent Phone Number at line 1838
+2021-03-01 16:38:16,756  root  INFO  Invalid Agent Phone Number at line 1839
+2021-03-01 16:38:16,756  root  INFO  Invalid Agent Phone Number at line 1842
+2021-03-01 16:38:16,756  root  INFO  Invalid Agent Phone Number at line 1846
+2021-03-01 16:38:16,756  root  INFO  Invalid Agent Phone Number at line 1847
+2021-03-01 16:38:16,756  root  INFO  Invalid Agent Phone Number at line 1849
+2021-03-01 16:38:16,756  root  INFO  Invalid Agent Phone Number at line 1850
+2021-03-01 16:38:16,756  root  INFO  Invalid Agent Phone Number at line 1851
+2021-03-01 16:38:16,756  root  INFO  Invalid Agent Phone Number at line 1852
+2021-03-01 16:38:16,756  root  INFO  Invalid Agent Phone Number at line 1854
+2021-03-01 16:38:16,756  root  INFO  Invalid Agent Phone Number at line 1855
+2021-03-01 16:38:16,756  root  INFO  Invalid Agent Phone Number at line 1856
+2021-03-01 16:38:16,757  root  INFO  Invalid Agent Phone Number at line 1858
+2021-03-01 16:38:16,757  root  INFO  Invalid Agent Phone Number at line 1860
+2021-03-01 16:38:16,757  root  INFO  Invalid Agent Phone Number at line 1861
+2021-03-01 16:38:16,757  root  INFO  Invalid Agent Phone Number at line 1862
+2021-03-01 16:38:16,757  root  INFO  Invalid Agent Phone Number at line 1864
+2021-03-01 16:38:16,757  root  INFO  Invalid Agent Phone Number at line 2029
+2021-03-01 16:38:16,814  root  INFO  General dataframe:
+      Partner  Agent Id Update Date  ... Date when an agent became A2O   Title AARP Auth to Offer Level
+0        NYL       866  02/18/2021  ...                    12/02/2020  AGENT                         2
+1        NYL      1049  02/18/2021  ...                    10/07/2020  AGENT                         2
+2        NYL      1257  02/18/2021  ...                    12/29/2020  AGENT                         2
+3        NYL      1725  02/18/2021  ...                    10/02/2020  AGENT                         2
+4        NYL      1917  02/18/2021  ...                    12/02/2020  AGENT                         2
+...      ...       ...         ...  ...                           ...     ...                      ...
+2101     NYL    976087  02/18/2021  ...                    10/15/2020  AGENT                         2
+2102     NYL    988024  02/18/2021  ...                    12/02/2020  AGENT                         2
+2103     NYL    989733  02/18/2021  ...                    01/22/2021  AGENT                         2
+2104     NYL    990128  02/18/2021  ...                    01/04/2021  AGENT                         2
+2105     NYL    991861  02/18/2021  ...                    10/05/2020  AGENT                         2
+
+[2106 rows x 28 columns]
+2021-03-01 16:38:16,860  root  INFO  State DF: 
+              Partner  Agent Id Update Date  ... Date when an agent became A2O   Title AARP Auth to Offer Level
+Agency State                                ...                                                               
+AK               NYL    153804  02/18/2021  ...                    12/01/2020  AGENT                         2
+AK               NYL    129380  02/18/2021  ...                    01/13/2021  AGENT                         2
+AK               NYL    132079  02/18/2021  ...                    10/05/2020  AGENT                         2
+AK               NYL     72396  02/18/2021  ...                    01/05/2021  AGENT                         2
+AK               NYL    166621  02/18/2021  ...                    12/01/2020  AGENT                         2
+...              ...       ...         ...  ...                           ...     ...                      ...
+WY               NYL    157183  02/18/2021  ...                    01/27/2021  AGENT                         2
+WY               NYL    750499  02/18/2021  ...                    01/04/2021  AGENT                         2
+WY               NYL      1257  02/18/2021  ...                    12/29/2020  AGENT                         2
+WY               NYL     28017  02/18/2021  ...                    12/10/2020  AGENT                         2
+WY               NYL    193739  02/18/2021  ...                    09/21/2020  AGENT                         2
+
+[2106 rows x 27 columns]
+2021-03-01 16:38:17,014  root  INFO  Agent DF: 
+      Agent Writing Contract Start Date  ...                                         Agent Name
+0                           06/10/1998  ...  STEVE                                         ...
+1                           06/02/1998  ...  ANTHONY                                       ...
+2                           09/14/1998  ...  DAN                                           ...
+3                           07/14/1998  ...  JAMES                                         ...
+4                           06/04/1994  ...  PHILLIP                         R             ...
+...                                ...  ...                                                ...
+2101                        03/16/1970  ...  JAY                             P             ...
+2102                        04/01/1970  ...  OTTO                            A             ...
+2103                        04/20/1970  ...  CHARLES                         W             ...
+2104                        12/08/1976  ...  LEN                             A             ...
+2105                        05/04/1970  ...  JEFFREY                         E             ...
+
+[2106 rows x 3 columns]
+2021-03-01 16:38:18,261  root  INFO  Saved: Running total plot - plot1.png
+2021-03-01 16:38:18,982  root  INFO  Saved: Agents by state plot - plot2.png
+2021-03-01 16:38:18,983  root  INFO  Checked file - config
+2021-03-01 16:38:18,983  root  INFO  Read from file - config
+2021-03-01 16:38:18,983  root  INFO  Closed file - config
+2021-03-01 16:38:21,311  root  INFO  Email sent to brian.senior@smoothstack.com
+2021-03-01 16:38:21,337  root  INFO  Stop logging
+2021-03-01 16:40:11,943  root  INFO  Start logging
+2021-03-01 16:40:11,943  root  INFO  Accessed the current directory 
+2021-03-01 16:40:11,944  root  INFO  Filtered the output of the current directory
+2021-03-01 16:40:11,944  root  INFO  Sorted filenames
+2021-03-01 16:40:11,944  root  INFO  Checked file - NYL.lst
+2021-03-01 16:40:11,944  root  INFO  Read from file - NYL.lst
+2021-03-01 16:40:11,944  root  INFO  Closed file - NYL.lst
+2021-03-01 16:40:11,944  root  ERROR  Log failed: Already processed NYL_FieldAgent_20210219.csv
